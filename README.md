@@ -1,5 +1,5 @@
 # Name
-Guess number program for improve skills
+Guess number
 
 # Description
 You can set the range of minimum and maximum and try to guess the number
